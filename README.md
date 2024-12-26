@@ -2,7 +2,7 @@
 - 👀 I’m interested in robotics,embedded systems,electronic,video games and artficial intelligence
 - 🌱 I’m currently learning embedded systems and robotics
 - 💞️ I’m looking to collaborate on some projects
-- 📫 How to reach me 
+- 📫 How to reach me <Fadula7@gmail.com>
 
 <!---
 A95Milan/A95Milan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
