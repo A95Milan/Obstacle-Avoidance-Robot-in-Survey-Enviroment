@@ -1,0 +1,23 @@
+ forward(1)
+repeat
+{
+    if(frontiswhite){
+        
+    forward(1)
+   }
+     else if(frontisobstacle){
+        left
+        forward(1)
+        right
+        forward(2)
+        right
+        forward(1)
+        left
+        forward(2)
+        end 
+    }
+   
+        
+  
+   
+    }
